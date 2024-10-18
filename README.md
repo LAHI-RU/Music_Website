@@ -1,2 +1,4 @@
 # Music_Website
- Responsive Music Website Using HTML CSS And JavaScript
+ <div>
+  <img alt="site image" width="600" src="assets/img1.png"
+ </div>
